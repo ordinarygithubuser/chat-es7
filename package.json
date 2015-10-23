@@ -1,11 +1,11 @@
 {
   "name": "chat-es7",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A chat application",
   "main": "gulpfile.js",
   "dependencies": {
-    "ive-b": "^1.0.0",
-    "ive-f": "^2.2.5",
+    "ive-b": "^1.1.6",
+    "ive-f": "^2.2.9",
     "mime": "^1.3.4",
     "mysql": "^2.8.0"
   },
@@ -26,6 +26,18 @@
     "chat",
     "websockets"
   ],
-  "author": "justalex",
-  "license": "MIT"
+  "author": {
+    "name": "justalex"
+  },
+  "maintainers": [
+    {
+      "name": "justalex",
+      "email": "madseahorse@yandex.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ordinarygithubuser/chat-es7"
+  }
 }

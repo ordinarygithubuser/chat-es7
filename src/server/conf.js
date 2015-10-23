@@ -4,10 +4,10 @@ let MainFile = ClientPath + '\\index.html';
 
 let Database = {
 	host: 'localhost',
-	port: 3300,
-	user: 'alex',
-	database: 'chat2',
-	password: 'bezgog8jd'
+	port: 3306,
+	user: 'chat-admin',
+	database: 'chat',
+	password: '1234'
 };
 
 let Session = {
